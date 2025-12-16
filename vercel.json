@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "functions": {
+    "api/*.ts": {
+      "runtime": "nodejs18.x",
+      "memory": 1024
+    }
+  }
+}
